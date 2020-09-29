@@ -1,0 +1,10 @@
+/*change the always open indent on mobile */
+.shiftnav ul.shiftnav-menu.shiftnav-indent-subs 
+li.shiftnav-sub-always ul.sub-menu li.menu-item>a {
+    padding-left: 20px !important;
+}
+
+/* Indent the More... menun on mobile */
+.menu-item-217998 .shiftnav-depth-1 {
+    padding-left: 20px !important;
+}
